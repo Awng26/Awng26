@@ -5,6 +5,7 @@ Some of my current interests/hobbies include: <br>
   * Blender
   * Coding (A little)
   * Tennis
+  * Robotics
   * Piano <br>
 
 Some goals I have for this class include learning more about Computer Science, and just getting better at recognizing and writing code.  
